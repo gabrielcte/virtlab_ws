@@ -1,0 +1,17 @@
+/home/gabriel/virtlab_ws/install/packages/share/packages/launchs/listener.launch.py
+/home/gabriel/virtlab_ws/install/packages/share/packages/launchs/talker.launch.py
+/home/gabriel/virtlab_ws/install/packages/share/ament_index/resource_index/package_run_dependencies/packages
+/home/gabriel/virtlab_ws/install/packages/share/ament_index/resource_index/parent_prefix_path/packages
+/home/gabriel/virtlab_ws/install/packages/share/packages/environment/ament_prefix_path.sh
+/home/gabriel/virtlab_ws/install/packages/share/packages/environment/ament_prefix_path.dsv
+/home/gabriel/virtlab_ws/install/packages/share/packages/environment/path.sh
+/home/gabriel/virtlab_ws/install/packages/share/packages/environment/path.dsv
+/home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.bash
+/home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.sh
+/home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.zsh
+/home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.dsv
+/home/gabriel/virtlab_ws/install/packages/share/packages/package.dsv
+/home/gabriel/virtlab_ws/install/packages/share/ament_index/resource_index/packages/packages
+/home/gabriel/virtlab_ws/install/packages/share/packages/cmake/packagesConfig.cmake
+/home/gabriel/virtlab_ws/install/packages/share/packages/cmake/packagesConfig-version.cmake
+/home/gabriel/virtlab_ws/install/packages/share/packages/package.xml

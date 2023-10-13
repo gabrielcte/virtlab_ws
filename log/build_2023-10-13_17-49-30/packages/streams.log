@@ -1,0 +1,39 @@
+[0.039s] Invoking command in '/home/gabriel/virtlab_ws/build/packages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gabriel/virtlab_ws/src/packages -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gabriel/virtlab_ws/install/packages
+[0.122s] -- The C compiler identification is GNU 11.4.0
+[0.192s] -- The CXX compiler identification is GNU 11.4.0
+[0.203s] -- Detecting C compiler ABI info
+[0.274s] -- Detecting C compiler ABI info - done
+[0.289s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.291s] -- Detecting C compile features
+[0.291s] -- Detecting C compile features - done
+[0.297s] -- Detecting CXX compiler ABI info
+[0.410s] -- Detecting CXX compiler ABI info - done
+[0.422s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.422s] -- Detecting CXX compile features
+[0.423s] -- Detecting CXX compile features - done
+[0.429s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.569s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.613s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.636s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.690s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.690s] -- Added test 'lint_cmake' to check CMake code style
+[0.690s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.691s] -- Added test 'xmllint' to check XML markup files
+[0.692s] -- Configuring done
+[0.694s] -- Generating done
+[0.695s] -- Build files have been written to: /home/gabriel/virtlab_ws/build/packages
+[0.698s] Invoked command in '/home/gabriel/virtlab_ws/build/packages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gabriel/virtlab_ws/src/packages -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/gabriel/virtlab_ws/install/packages
+[0.699s] Invoking command in '/home/gabriel/virtlab_ws/build/packages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabriel/virtlab_ws/build/packages -- -j16 -l16
+[0.742s] Invoked command in '/home/gabriel/virtlab_ws/build/packages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabriel/virtlab_ws/build/packages -- -j16 -l16
+[0.758s] Invoking command in '/home/gabriel/virtlab_ws/build/packages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabriel/virtlab_ws/build/packages
+[0.761s] -- Install configuration: ""
+[0.761s] -- Execute custom install script
+[0.761s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[0.761s]   ament_cmake_symlink_install_directory() can't find
+[0.761s]   '/home/gabriel/virtlab_ws/src/packages/launch'
+[0.761s] Call Stack (most recent call first):
+[0.761s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.761s]   cmake_install.cmake:46 (include)
+[0.761s] 
+[0.761s] [0m
+[0.762s] Invoked command in '/home/gabriel/virtlab_ws/build/packages' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabriel/virtlab_ws/build/packages

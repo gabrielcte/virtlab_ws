@@ -1,0 +1,33 @@
+[0.035s] Invoking command in '/home/gabriel/virtlab_ws/build/packages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabriel/virtlab_ws/build/packages -- -j16 -l16
+[0.053s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.140s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.145s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.188s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.189s] -- Added test 'lint_cmake' to check CMake code style
+[0.189s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.189s] -- Added test 'xmllint' to check XML markup files
+[0.190s] -- Configuring done
+[0.192s] -- Generating done
+[0.192s] -- Build files have been written to: /home/gabriel/virtlab_ws/build/packages
+[0.214s] Invoked command in '/home/gabriel/virtlab_ws/build/packages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabriel/virtlab_ws/build/packages -- -j16 -l16
+[0.235s] Invoking command in '/home/gabriel/virtlab_ws/build/packages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabriel/virtlab_ws/build/packages
+[0.241s] -- Install configuration: ""
+[0.242s] -- Execute custom install script
+[0.243s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/launchs/listener.launch.py
+[0.248s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/launchs/talker.launch.py
+[0.255s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/ament_index/resource_index/package_run_dependencies/packages
+[0.260s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/ament_index/resource_index/parent_prefix_path/packages
+[0.269s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/environment/ament_prefix_path.sh
+[0.278s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/environment/ament_prefix_path.dsv
+[0.287s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/environment/path.sh
+[0.300s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/environment/path.dsv
+[0.309s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.bash
+[0.318s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.sh
+[0.327s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.zsh
+[0.335s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/local_setup.dsv
+[0.347s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/package.dsv
+[0.356s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/ament_index/resource_index/packages/packages
+[0.367s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/cmake/packagesConfig.cmake
+[0.378s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/cmake/packagesConfig-version.cmake
+[0.387s] -- Symlinking: /home/gabriel/virtlab_ws/install/packages/share/packages/package.xml
+[0.401s] Invoked command in '/home/gabriel/virtlab_ws/build/packages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabriel/virtlab_ws/build/packages

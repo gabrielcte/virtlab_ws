@@ -1,0 +1,4 @@
+Invoking command in '/home/gabriel/virtlab_ws/build/packages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabriel/virtlab_ws/build/packages -- -j16 -l16
+Invoked command in '/home/gabriel/virtlab_ws/build/packages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabriel/virtlab_ws/build/packages -- -j16 -l16
+Invoking command in '/home/gabriel/virtlab_ws/build/packages': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabriel/virtlab_ws/build/packages
+Invoked command in '/home/gabriel/virtlab_ws/build/packages' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabriel/virtlab_ws/build/packages
